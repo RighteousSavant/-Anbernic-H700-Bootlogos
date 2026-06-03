@@ -1,5 +1,5 @@
 # Anbernic H700 Bootlogos
-These bootlogos are designed for the Anbernic RGXX family of devices utilizing the Allwinner H700 processor using KNULLI custom firmware with a 640×480 (4:3), 720×480 (3:2) and 720×720 (1:1) screen ratios.  These bootlogos are freely available for anyone to use for compatible devices.  
+These bootlogos are designed for the Anbernic RGXX family of devices utilizing the Allwinner H700 processor and using KNULLI custom firmware with a 640×480 (4:3), 720×480 (3:2) and 720×720 (1:1) screen ratios.  These bootlogos are freely available for anyone to use for compatible devices.  
 
 ## How do you install the bootlogos?
 According to the instructions shown at the [KNULLI Wiki Bootlogo Page](https://knulli.org/configure/customization/bootlogo/):  
