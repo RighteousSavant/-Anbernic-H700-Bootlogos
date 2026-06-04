@@ -16,9 +16,9 @@ According to the instructions shown at the [KNULLI Wiki Bootlogo Page](https://k
 
 
 <p align="center"><ins>NOTICE</ins></p>
-<p align="center"><img width="320" height="240" alt="40V bootlogo" src="https://github.com/user-attachments/assets/2ebfbbb2-9096-4688-a008-5f51df685bce" /></p>
-<p align="center"><img width="360" height="240" alt="34xx bootlogo" src="https://github.com/user-attachments/assets/947d4675-7809-4dc2-bc6b-ab99793cccaf" /></p>
-<p align="center"><img width="360" height="360" alt="Cube bootlogo" src="https://github.com/user-attachments/assets/8726dcc2-2549-41b8-a83d-56d640749f71" /></p>
+<p align="center"><img width="320" height="240" alt="40V bootlogo" src="https://github.com/user-attachments/assets/2ebfbbb2-9096-4688-a008-5f51df685bce" />
+<img width="360" height="240" alt="34xx bootlogo" src="https://github.com/user-attachments/assets/947d4675-7809-4dc2-bc6b-ab99793cccaf" />
+<img width="360" height="360" alt="Cube bootlogo" src="https://github.com/user-attachments/assets/8726dcc2-2549-41b8-a83d-56d640749f71" /></p>
 
 ## Feedback is always welcome!
 If you wish to reach out to me with any feedback about the overlays, I recommend areas that I roam on Discord, especially if you are looking for new areas on Discord.  I'm on the following servers:  
