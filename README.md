@@ -1,7 +1,7 @@
 <p align="center"><img width="500" height="156" alt="Github 2" src="https://github.com/user-attachments/assets/1d697ff2-d370-43c8-930b-ed996ac6b8a5" /></p>
 
 # Anbernic H700 Bootlogos
-These bootlogos are designed for the Anbernic RGXX family of devices utilizing the Allwinner H700 processor and using the [KNULLI](https://knulli.org/) custom firmware with a 640×480 (4:3), 720×480 (3:2) and 720×720 (1:1) screen ratios.  These files may also be used on other firmwares, so please refer to your firmware's support page.  These bootlogos are freely available for anyone to use for compatible devices.  
+These bootlogos are designed for the Anbernic RGXX family of devices utilizing the Allwinner H700 processor and using the [KNULLI](https://knulli.org/) custom firmware with a 640×480 (4:3), 720×480 (3:2) and 720×720 (1:1) screen ratios.  These files may also be used on other firmwares, so please refer to your chosen firmware's support page.  These bootlogos are freely available for anyone to use for compatible devices.  
 
 ## How do you install the bootlogos?
   
@@ -14,7 +14,6 @@ According to the instructions shown at the [KNULLI Wiki Bootlogo Page](https://k
 · Turn on your KNULLI device and enjoy your custom boot logo.
 
 ## Here are the overlays available!
-
 
 <p align="center"><ins>NOTICE</ins></p>
 <p align="center"><img width="320" height="240" alt="40V bootlogo" src="https://github.com/user-attachments/assets/2ebfbbb2-9096-4688-a008-5f51df685bce" />
