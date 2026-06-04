@@ -16,8 +16,8 @@ According to the instructions shown at the [KNULLI Wiki Bootlogo Page](https://k
 ## Here are the overlays available!
 
 <p align="center"><ins>NOTICE</ins></p>
-<p align="center"><img width="320" height="240" alt="Notice (4×3) bootlogo" src="https://github.com/user-attachments/assets/9842b002-9ca8-46c7-9c6d-959bffb1a2e7" /></p>  
-[4:3](https://knulli.org/)  
+<p align="center"><img width="360" height="360" alt="<img width="720" height="720" alt="Notice (1×1) bootlogo" src="https://github.com/user-attachments/assets/f7d04d46-8d41-4306-9a0a-3708025fc245" /></p>  
+[KNULLI](https://knulli.org/)
 
 ## Feedback is always welcome!
 If you wish to reach out to me with any feedback about the overlays, I recommend areas that I roam on Discord, especially if you are looking for new areas on Discord.  I'm on the following servers:  
