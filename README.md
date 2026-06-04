@@ -16,9 +16,8 @@ According to the instructions shown at the [KNULLI Wiki Bootlogo Page](https://k
 ## Here are the overlays available!
 
 <p align="center"><ins>NOTICE</ins></p>
-<p align="center"><img width="320" height="240" alt="40V bootlogo" src="https://github.com/user-attachments/assets/2ebfbbb2-9096-4688-a008-5f51df685bce" />
-<img width="360" height="240" alt="34xx bootlogo" src="https://github.com/user-attachments/assets/947d4675-7809-4dc2-bc6b-ab99793cccaf" />
-<img width="360" height="360" alt="Cube bootlogo" src="https://github.com/user-attachments/assets/8726dcc2-2549-41b8-a83d-56d640749f71" /></p>
+<p align="center"><img width="320" height="240" alt="Notice (4×3) bootlogo" src="https://github.com/user-attachments/assets/9842b002-9ca8-46c7-9c6d-959bffb1a2e7" />  
+<p align="center"><small>$\color{#D4AF37}{\text{640×480 (4:3)}}$</small></p>
 
 ## Feedback is always welcome!
 If you wish to reach out to me with any feedback about the overlays, I recommend areas that I roam on Discord, especially if you are looking for new areas on Discord.  I'm on the following servers:  
@@ -26,3 +25,7 @@ If you wish to reach out to me with any feedback about the overlays, I recommend
 [FinalBurn Neo](https://discord.gg/pV7BkTYbH)  
 [KNULLI](https://discord.gg/d9PYJjuhr)  
 [RetroHandhelds.gg](https://discord.gg/retrohandhelds)  
+
+Please be sure the respect the rules for each individual server.  
+
+<p align="center"><img width="643" height="322" alt="play nice wip 7" src="https://github.com/user-attachments/assets/f0d993de-60eb-4f18-b23e-91220dc69272" /></p>
